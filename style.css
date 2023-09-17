@@ -1,0 +1,48 @@
+*{
+    background-color: #468a62;
+}
+
+.main {
+    text-align: center;
+    font-size: 55px;
+    color: #fbff00;
+}
+
+.text {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    text-decoration: underline;
+}
+
+.table {
+    position: absolute;
+    right: 36%;
+    bottom: 20%;
+    border-color: rgb(66, 167, 226);
+}
+
+
+.one {
+    border: 2px;
+    padding: 2px;
+    background-color: white;
+    width: 55px;
+    height: 55px;
+}
+
+.two {
+    background-color: black;
+    border: 2px;
+    padding: 2px;
+    width: 55px;
+    height: 55px;
+}
+
+.see {
+    position: fixed;
+    bottom: 0%;
+    right: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
